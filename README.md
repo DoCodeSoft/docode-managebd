@@ -28,7 +28,7 @@ Una vez instalada la libreria en el entorno virtual
 
 Importar la libreria en [Python](https://www.python.org/):
 ```sh
-import docode-managebd as proc
+import docode_managebd.procesos_bd as proc
 ```
 
 #### Metodos:
