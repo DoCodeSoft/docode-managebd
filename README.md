@@ -33,6 +33,8 @@ import docode_managebd.procesos_bd as proc
 
 #### Metodos:
 
+Una vez que se realiza el import se pueden utilizar los metodos de la libreria
+
 ```sh
 proc.obtener_campos(modelo)
 ```
@@ -69,6 +71,10 @@ Editar:
 ```sh
 <input id="idEditar" class="d-none" type="text" name="idEditar" value="">
 ```
+
+### Versiones
+
+**Version 0.0.5:** Se implementa el uso de campos FileFiled para los modelos
 
 Licencia
 ----
